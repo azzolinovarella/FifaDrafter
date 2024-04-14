@@ -1,1 +1,1 @@
-# fifa-random-squad-generator
+# FifaDrafter

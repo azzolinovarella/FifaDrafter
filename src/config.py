@@ -7,24 +7,24 @@ import streamlit as st
 import constants as cte
 
 
-def set_logger() -> logging.Logger:
-    """Instancia o Logger usado para a aplicação.
+# def set_logger() -> logging.Logger:
+#     """Instancia o Logger usado para a aplicação.
 
-    Returns:
-        logging.Logger: Retorna o Logger da aplicação. 
-    """
+#     Returns:
+#         logging.Logger: Retorna o Logger da aplicação. 
+#     """
 
-    logger = logging.getLogger()
-    logger.setLevel(logging.INFO)
+#     logger = logging.getLogger()
+#     logger.setLevel(logging.INFO)
 
-    ch = logging.StreamHandler()
-    formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s")
-    ch.setLevel(logging.INFO)
-    ch.setFormatter(formatter)
+#     ch = logging.StreamHandler()
+#     formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s")
+#     ch.setLevel(logging.INFO)
+#     ch.setFormatter(formatter)
 
-    logger.addHandler(ch)
+#     logger.addHandler(ch)
 
-    return logger
+#     return logger
 
 
 def set_page_config() -> None:
@@ -36,4 +36,4 @@ def set_page_config() -> None:
     warnings.filterwarnings("ignore")  # Só para parar de levantar warning do pandas no log...
 
 
-LOGGER = set_logger()
+# LOGGER = set_logger()

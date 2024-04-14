@@ -1,3 +1,14 @@
+PROB_PER_OVER_RANGE = {
+	"83-85": 0.20,
+	"86-88": 0.35,
+	"88-89": 0.35,
+	"90-99": 0.10
+}
+
+NUMBER_OF_PLAYERS = 4
+
+NUMBER_OF_RES = 7
+
 FORMATIONS = {
         "3-4-3 LOSANGO": ["GOL", "ZAG", "ZAG", "ZAG", "VOL", "MD", "ME", "MEI", "PD", "PE", "ATA"],
         "3-4-3 EM LINHA": ["GOL", "ZAG", "ZAG", "ZAG", "MC", "MC", "MD", "ME", "PD", "PE", "ATA"],
@@ -36,6 +47,33 @@ FORMATIONS = {
         "4-2-3-1 ABERTO": ["GOL", "ZAG", "ZAG", "LD", "LE", "VOL", "VOL", "MEI", "MEI", "MEI", "ATA"],
         "4-1-4-1": ["GOL", "ZAG", "ZAG", "LD", "LE", "VOL", "MC", "MC", "MD", "ME", "ATA"]
     }
+
+POSITIONS_MAP = {
+        "GK":  "GOL",
+        "CB":  "ZAG",
+        "RB":  "LD",
+        "LB":  "LE",
+        "RWB": "ADD",
+        "LWB": "ADE",
+        "CDM": "VOL",
+        "CM":  "MC",
+        "RM":  "MD",
+        "LM":  "ME",
+        "CAM": "MEI",
+        "RAM": "MAD",
+        "LAM": "MAE",
+        "RW": "PD",
+        "LW": "PE",
+        "CF":  "SA",
+        "ST":  "ATA"
+}
+
+COLLDOWN_TIME = 15*60  # Segundos
+
+PLAYERS = {
+    "Felipe",
+    "Tharik"
+}
 
 APP_INFO = {
     "name": "FIFA Drafter",

@@ -1,0 +1,143 @@
+short_name,long_name,overall,player_positions,ADD,ADE,ATA,GOL,LD,LE,MC,MD,ME,MEI,PD,PE,SA,VOL,ZAG,RES
+K. Mbappé,Kylian Mbappé Lottin,91,"['ATA', 'PE']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+E. Haaland,Erling Braut Haaland,91,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+K. De Bruyne,Kevin De Bruyne,91,"['MC', 'MEI']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+L. Messi,Lionel Andrés Messi Cuccittini,90,"['SA', 'MEI']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+K. Benzema,Karim Benzema,90,"['SA', 'ATA']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+R. Lewandowski,Robert Lewandowski,90,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+T. Courtois,Thibaut Nicolas Marc Courtois,90,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+H. Kane,Harry Kane,90,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Vini Jr.,Vinícius José Paixão de Oliveira Júnior,89,['PE'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Alisson,Alisson Ramsés Becker,89,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Rodri,Rodrigo Hernández Cascante,89,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Rúben Dias,Rúben dos Santos Gato Alves Dias,89,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Neymar Jr,Neymar da Silva Santos Júnior,89,['PE'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+M. ter Stegen,Marc-André ter Stegen,89,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Casemiro,Carlos Henrique Venancio Casimiro,89,['VOL'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+V. van Dijk,Virgil van Dijk,89,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+M. Salah,Mohamed Salah Ghaly,89,['PD'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+F. Valverde,Federico Santiago Valverde Dipetta,88,"['MC', 'PD']",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+V. Osimhen,Victor James Osimhen,88,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Ederson,Ederson Santana de Moraes,88,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+J. Kimmich,Joshua Walter Kimmich,88,"['VOL', 'LD', 'MC']",0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1
+A. Griezmann,Antoine Griezmann,88,"['ATA', 'SA']",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+J. Oblak,Jan Oblak,88,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Bruno Fernandes,Bruno Miguel Borges Fernandes,88,"['MEI', 'MC']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,88,"['MC', 'PD']",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+M. Ødegaard,Martin Ødegaard,87,"['MEI', 'MC']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+F. de Jong,Frenkie de Jong,87,"['MC', 'VOL']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+G. Donnarumma,Gianluigi Donnarumma,87,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+L. Martínez,Lautaro Javier Martínez,87,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+G. Kobel,Gregor Kobel,87,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+M. Maignan,Mike Maignan,87,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Marquinhos,Marcos Aoás Corrêa,87,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+M. Neuer,Manuel Peter Neuer,87,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+L. Modrić,Luka Modrić,87,['MC'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+H. Son,손흥민 孙兴慜,87,['PE'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+J. Musiala,Jamal Musiala,86,"['MEI', 'MC', 'ME']",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1
+K. Kvaratskhelia,Khvicha Kvaratskhelia,86,"['PE', 'PD']",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+Pedri,Pedro González López,86,['MC'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Rafael Leão,Rafael Alexandre Conceição Leão,86,"['PE', 'SA', 'ATA']",0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1
+J. Bellingham,Jude Victor William Bellingham,86,"['MC', 'MEI']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+R. Araujo,Ronald Federico Araújo da Silva,86,"['ZAG', 'LD']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+B. Saka,Bukayo Saka,86,"['PD', 'MD']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+M. de Ligt,Matthijs de Ligt,86,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Éder Militão,Éder Gabriel Militão,86,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+S. Tonali,Sandro Tonali,86,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+N. Barella,Nicolò Barella,86,['MC'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+T. Alexander-Arnold,Trent Alexander-Arnold,86,['LD'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+C. Nkunku,Christopher Nkunku,86,"['SA', 'MEI', 'ATA']",0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1
+O. Dembélé,Ousmane Dembélé,86,"['PD', 'PE']",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,86,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+T. Kroos,Toni Kroos,86,"['MC', 'VOL']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+W. Szczęsny,Wojciech Tomasz Szczęsny,86,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+İ. Gündoğan,İlkay Gündoğan,86,"['MC', 'VOL']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Parejo,Daniel Parejo Muñoz,86,"['MC', 'VOL']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+R. Mahrez,Riyad Mahrez,86,"['MD', 'PD']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+S. Mané,Sadio Mané,86,"['SA', 'ME', 'ATA']",0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1
+João Cancelo,João Pedro Cavaco Cancelo,86,"['LE', 'LD']",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+P. Dybala,Paulo Bruno Exequiel Dybala,86,"['SA', 'MEI']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+N. Kanté,N'Golo Kanté,86,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+A. Robertson,Andrew Robertson,86,['LE'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+S. Milinković-Savić,Sergej Milinković-Savić,86,['MC'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Rodrygo,Rodrygo Silva de Goes,85,"['PD', 'PE', 'ATA']",0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1
+F. Wirtz,Florian Richard Wirtz,85,"['MEI', 'MC']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+T. Hernández,Theo Bernard François Hernández,85,"['LE', 'ME']",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+A. Bastoni,Alessandro Bastoni,85,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+P. Foden,Philip Foden,85,"['PE', 'PD']",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+J. Koundé,Jules Koundé,85,"['ZAG', 'LD']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+M. Rashford,Marcus Rashford,85,"['PE', 'ME', 'ATA']",0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1
+Diogo Jota,Diogo José Teixeira da Silva,85,"['SA', 'PE']",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+D. Rice,Declan Rice,85,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+J. Stones,John Stones,85,"['ZAG', 'LD']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+A. Laporte,Aymeric Laporte,85,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+A. Onana,André Onana,85,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+K. Trippier,Kieran Trippier,85,['LD'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+K. Trapp,Kevin Trapp,85,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+C. Immobile,Ciro Immobile,85,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Iago Aspas,Iago Aspas Juncal,85,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+K. Navas,Keylor Navas Gamboa,85,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+D. Alaba,David Olatukunbo Alaba,85,"['ZAG', 'LE']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+R. Varane,Raphaël Varane,85,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+E. Martínez,Damián Emiliano Martínez,85,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+A. Rüdiger,Antonio Rüdiger,85,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+J. Grealish,Jack Grealish,85,"['PE', 'ME']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+H. Çalhanoğlu,Hakan Çalhanoğlu,85,"['MC', 'VOL']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+L. Goretzka,Leon Christoph Goretzka,85,"['MC', 'VOL']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Y. Bounou,Yassine Bounou,85,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+T. Partey,Thomas Partey,85,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+D. Berardi,Domenico Berardi,85,"['PD', 'MD']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+K. Coman,Kingsley Junior Coman,85,"['ME', 'MD']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+G. Di Lorenzo,Giovanni Di Lorenzo,85,['LD'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+M. Acuña,Marcos Javier Acuña,85,"['LE', 'ME']",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+A. Tchouaméni,Aurélien Tchouaméni,84,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+I. Bennacer,Ismaël Bennacer,84,"['VOL', 'MC', 'MEI']",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1
+F. Tomori,Fikayo Tomori,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+M. Diaby,Moussa Diaby,84,"['MD', 'ME']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+Gabriel Martinelli,Gabriel Teodoro Martinelli Silva,84,"['PE', 'ME']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+A. Ramsdale,Aaron Ramsdale,84,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+R. Kolo Muani,Randal Kolo Muani,84,"['ATA', 'MD']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+L. Martínez,Lisandro Martínez,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Bremer,Gleison Bremer Silva Nascimento,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Bruno Guimarães,Bruno Guimarães Rodriguez Moura,84,"['MC', 'VOL']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+N. Süle,Niklas Süle,84,"['ZAG', 'LD']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Rúben Neves,Rúben Diogo da Silva Neves,84,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Álex Remiro,Alejandro Remiro Gargallo,84,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Gabriel,Gabriel dos Santos Magalhães,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+A. Hakimi,Achraf Hakimi Mouh,84,"['LD', 'ADD']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Kim Min Jae,김민재 金敏在,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+R. James,Reece James,84,"['LD', 'ADD']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+J. Brandt,Julian Brandt,84,"['MEI', 'MD', 'MC']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+P. Højbjerg,Pierre-Emile Kordt Højbjerg,84,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+J. Maddison,James Maddison,84,"['MEI', 'MD', 'MC']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+L. Hernández,Lucas François Bernard Hernández Pi,84,"['ZAG', 'LE']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+Mikel Merino,Mikel Merino Zazón,84,"['MC', 'MEI', 'ME']",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1
+Gabriel Jesus,Gabriel Fernando de Jesus,84,"['ATA', 'PD']",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Raphinha,Raphael Dias Belloli,84,['PD'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+F. Chiesa,Federico Chiesa,84,"['ME', 'PE', 'PD']",0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1
+L. Díaz,Luis Fernando Díaz Marulanda,84,"['PE', 'ME']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+Thiago Silva,Thiago Emiliano da Silva,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Y. Sommer,Yann Sommer,84,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+P. Gulácsi,Péter Gulácsi,84,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+K. Walker,Kyle Walker,84,['LD'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Thiago,Thiago Alcântara do Nascimento,84,['MC'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+T. Müller,Thomas Müller,84,"['MEI', 'SA', 'ATA']",0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1
+C. Smalling,Chris Smalling,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+R. Lukaku,Romelu Lukaku Menama,84,['ATA'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+K. Casteels,Koen Casteels,84,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Koke,Jorge Resurrección Merodio,84,"['VOL', 'MC']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Luis Alberto,Luis Alberto Romero Alconchel,84,['MC'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+K. Koulibaly,Kalidou Koulibaly,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+M. Depay,Memphis Depay,84,"['SA', 'PE', 'ATA']",0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1
+N. Pope,Nick Pope,84,['GOL'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+S. Gnabry,Serge David Gnabry,84,"['MD', 'ATA', 'ME']",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1
+M. Ginter,Matthias Ginter,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Y. Carrasco,Yannick Ferreira Carrasco,84,"['PE', 'ADE']",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Fabinho,Fábio Henrique Tavares,84,['VOL'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+A. Rabiot,Adrien Rabiot,84,"['MC', 'ME']",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+Grimaldo,Alejandro Grimaldo García,84,"['ADE', 'ME']",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+R. De Paul,Rodrigo Javier De Paul,84,['MC'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+S. Lobotka,Stanislav Lobotka,84,"['MC', 'VOL']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+L. Sané,Leroy Aziz Sané,84,"['MD', 'ME']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+Marcos Llorente,Marcos Llorente Moreno,84,"['MD', 'MC', 'LD']",0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1
+M. Škriniar,Milan Škriniar,84,['ZAG'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
